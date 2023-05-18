@@ -17,8 +17,10 @@ To solve this exercise, you can use the following steps as a guide:
 
 
         I encourage you to unleash the power of search engines like Google 
+
         This formating method is purposedly not placed in the excercise because, 
-        in the future you or anyone doing programming when encoutering a problem of 
-        knowing how to solve the problem but not knowing how to code 
-        would find the solution on Google.
+        you or anyone doing programming when encoutering a problem of knowing how to solve the it 
+        but not knowing what to type would find the solution on Google.
+
+        Hints for keywords: " How to print in two decimal places python "
         
