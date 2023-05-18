@@ -1,0 +1,42 @@
+Exercise 1: Store Calculator
+
+Write a program that acts as a simple store calculator. 
+
+The program should take the name, price, quantity, and discount percentage of an item from the user 
+
+You will need to calculate the total price and the total price after applying the discount. 
+Both prices should be printed to the nearest second decimal place
+
+
+Example Output:
+
+=== Store Calculator ===
+Enter the item name: Apple
+Enter the item price: 0.5
+Enter the item quantity: 10
+Enter the discount percentage: 20
+
+=== Receipt ===
+Item: Apple
+Price per item: $0.50
+Quantity: 10
+Total price: $5.00
+Total price after discount: $4.00
+
+Notes:
+
+    I encourage to always try to code first!
+
+    Don't look at the hints or the solutions at first.
+    After getting stuck then try please check the hints and code again.
+    Still stuck? then open the solution and code again. Never give up!
+
+    My solutions might be different from yours and thats okay!
+
+    Programming essentially is getting outputs from inputs
+
+    input -> black box -> output
+
+    the black box might be different as long as it answers the problem question its still great!
+
+    side note: its fun to see how different people approach different problems.
