@@ -1,4 +1,4 @@
-""" Exercise 1: Store Calculator """
+""" Exercise 1.1: Store Calculator """
 
 ''' 
 Write a program that acts as a simple store calculator. 
