@@ -10,7 +10,7 @@ The program should perform the corresponding mathematical operations:
     '*' for multiplication, 
     '/' for division
 
-    on the numbers a and b, and display the result.
+on the numbers a and b, and display the result.
 
 Example output:
 
@@ -19,16 +19,35 @@ Enter the first number: 5
 Enter the second number: 3
 Enter the mathematical symbol (+, -, *, /): *
 
-Result: 15
+Result: 15.0
 
 === Simple Calculator ===
 Enter the first number: 1
 Enter the second number: 3
 Enter the mathematical symbol (+, -, *, /): +
 
-Result: 4
+Result: 4.0
 
 === Simple Calculator ===
 Enter the first number: stop
 
 End of Program
+
+
+Notes:
+
+    I encourage to always try to code first!
+
+    Don't look at the hints or the solutions at first.
+    After getting stuck then try please check the hints and code again.
+    Still stuck? then open the solution and code again. Never give up!
+
+    My solutions might be different from yours and thats okay!
+
+    Programming essentially is getting outputs from inputs
+
+    input -> black box -> output
+
+    the black box might be different as long as it answers the problem question its still great!
+
+    side note: its fun to see how different people approach different problems.
