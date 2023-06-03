@@ -1,0 +1,37 @@
+
+Exercise 3.1: Word Frequency Counter
+
+Write a Python program that takes a paragraph of text as input from the user 
+and counts the frequency of each word in the paragraph.
+
+The program will display a list of unique words along with their corresponding frequencies.
+
+Example :
+
+=== Word Counter ===
+Enter a text: Hello world. Hello Python. Python is great!
+
+Word Frequency:
+- hello: 2
+- world: 1
+- python: 2
+- is: 1
+- great: 1
+
+Notes:
+
+    I encourage to always try to code first!
+
+    Don't look at the hints or the solutions at first.
+    After getting stuck then try please check the hints and code again.
+    Still stuck? then open the solution and code again. Never give up!
+
+    My solutions might be different from yours and thats okay!
+
+    Programming essentially is getting outputs from inputs
+
+    input -> black box -> output
+
+    the black box might be different as long as it answers the problem question its still great!
+
+    side note: its fun to see how different people approach different problems.

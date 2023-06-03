@@ -1,0 +1,10 @@
+To solve this exercise, you can follow these steps:
+- Prompt the user to enter a text string.
+- remove unwanted characters.
+- Split the text string into individual words.
+- Create an empty dictionary to store word frequencies.
+- Iterate through each word in the list of words.
+- Update the frequency count of each word in the dictionary.
+- Display the unique words and their frequencies.
+
+

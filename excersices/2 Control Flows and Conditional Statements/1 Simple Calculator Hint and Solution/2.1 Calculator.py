@@ -21,7 +21,7 @@ while True:
     a = input("Enter the first number: ")
 
     if a == 'stop':
-        break;
+        break
     a = float(a)
 
     b = float(input("Enter the second number: "))
