@@ -1,0 +1,9 @@
+To solve this excercise, you can follow these steps:
+
+- Determine a data structure to store the required information for a menu
+    - Item name
+    - Item price
+    - Index.
+- Determine a data structure to store the customer's order.
+- Receive the customer's order till the customer inputs the stop index.
+- Iterate through the your data structure and output accordingly to the format.

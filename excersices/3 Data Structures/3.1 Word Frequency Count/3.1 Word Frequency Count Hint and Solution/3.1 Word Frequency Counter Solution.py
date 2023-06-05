@@ -33,11 +33,11 @@ for char in paragraph:
 
 paragraph = ''.join(char_list).lower()
 
-words = paragraph.split()
+words = paragraph.split() # clean words
 
 result = {}
 
-for word in words:
+for word in words: # n * (1 + 1 + 1) -> O(n)
     if word in result:
         result[word] = result[word] + 1
     else:

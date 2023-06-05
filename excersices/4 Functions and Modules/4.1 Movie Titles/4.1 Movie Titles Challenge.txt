@@ -1,0 +1,51 @@
+Exercise 4.1: Movie Titles
+
+Write a Python program that takes a string and checks 
+whether if it is a valid movie title.
+
+If the movie title is valid then the program will output the movie title only.
+If not then the program will try to fix the movie title and output the two possible valid formats.
+
+A movie title is valid if it is in:
+
+- All Caps:
+    Some titles may use all capital letters for stylistic reasons or to emphasize the title.
+    Example: "JAWS", "PULP FICTION."
+
+- Title Case: 
+    This style capitalizes the first letter of each major word in the title, including nouns, verbs, adjectives, adverbs, and pronouns. 
+    Articles (e.g., "a", "an", "the"), conjunctions (e.g., "and", "but", "or"), and prepositions (e.g., "in", "on", "at") 
+    are not capitalized unless they are the first or last word in the title. 
+    
+    Examples: "The Great Gatsby", "Gone with the Wind"
+
+    For title case the inputs are limited to:
+        - Articles: 'a' , 'an', 'the'
+        - Conjunctions: 'and', 'but', 'or'
+        - Prepositions: 'in', 'on', 'at', 'with', 'from', 'of
+    Any other words apart from these are considered nouns, verbs, adjectives, adverbs, and pronouns.
+
+The input test cases only contains alphabetic characters.
+
+Test Case examples:
+    - "The Great Gatsby" -> Valid
+    - "Gone With the Wind" -> Not Valid -> Transform to valid -> "Gone with the Wind"
+    - "In an Open Room" -> Valid
+    - "With and from You" -> Valid
+    - "A horrible tragedy" -> Not Valid -> Transform to valid -> "A Horrible Tragedy"
+    - "Moving TEN steps fOrwArd" -> Not Valid -> Transform to valid -> "Moving Ten Steps Forward"
+
+Examples:
+
+
+Example 1:
+
+    Enter The Movie Title: In an Open Room
+    (True, 'In an Open Room')
+
+Example 2:
+
+    Enter The Movie Title: the Inner Workings Of me
+    (False, 'The Inner Workings of Me')
+
+
