@@ -11,7 +11,7 @@ greet_user()
 # Example 2: Function with parameters
 def greet_person(name):
     """Greets a person with a personalized message."""
-    print(f"Hello, {name}! Welcome to our program.")
+    print(f"Hello, {name}! Welcome to our event.")
 
 # Prompt the user for their name
 user_name = input("Enter your name: ")

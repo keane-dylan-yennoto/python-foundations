@@ -1,5 +1,5 @@
 
-Exercise 3.1: Word Frequency Counter
+Exercise 3.2: Restaurant Ordering System
 
 Write a Python program that code inputs from a menu item index and outputs:
 1. The amount of items ordered by item menu
@@ -30,6 +30,7 @@ Sandwich 1 x $5 = $5
 Coke 1 x $3 = $3
 Ice Tea 2 x $3 = $6
 Total Price: 26
+=========================
 
 Challenge Notes:
 
