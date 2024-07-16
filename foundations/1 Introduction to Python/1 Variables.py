@@ -10,7 +10,7 @@
 """ Variable Declaration """
 
 x = 5
-# Here we have a variable named x and assign a value of 5
+#  Here we have a variable named x and assign a value of 5
 
 """ Variable Naming Rules """
 
@@ -22,10 +22,19 @@ first_name = "Jane"
 last_name = "Doe"
 _age = 21
 
+# Here we are printing using basic printing
+
+print(f"First Name: ",first_name)
+print(f"last_name: ",last_name)
+print(f"Age: ",_age)
+print() # We add this line to have linespace between prints
+
+# Here we are printing using F-string technique
+
 print(f"First Name: {first_name}")
 print(f"last_name: {last_name}")
 print(f"Age: {_age}")
-
+print() 
 
 # Comment / fix the code below to be able to run
 
@@ -36,5 +45,7 @@ print(f"Age: {_age}")
 # using a number as the first letter of a variable name is invalid
 # The error shown should be a SyntaxError
 
-# Another Invalid Example
--x = 1
+# Other Invalid Examples
+-1 = 9
++c = 2
+*c = 7
