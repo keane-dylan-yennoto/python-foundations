@@ -20,6 +20,13 @@ print("Lowercase:", message.lower())
 # Get the length of the message
 print("Length:", len(message))
 
+# Strings can be defined using either single quotes (') or double quotes (")
+single_quote_string = 'This is a string in single quotes.'
+double_quote_string = "This is a string in double quotes."
+
+# To include a quotes within a string, you can escape it with a backslash
+mixed_quotes_string = "She said, \"I don't know.\""
+
 ''' Basic arithmetic operations '''
 a = 3
 b = 2
